@@ -1,0 +1,42 @@
+  - id: showStrikedEFConfig
+    label: Show striked eFConfig
+    description: Show striked eFConfig
+    type: object
+    fields:
+      - id: 10
+        label: 10
+        description: 10
+        type: object
+        fields:
+          - id: enabled
+            label: Enabled
+            description: Enabled
+            type: object
+            fields:
+              - id: minUserId
+                label: Min user id
+                description: Min user id
+                type: Number
+                fields:
+              - id: maxUserId
+                label: Max user id
+                description: Max user id
+                type: Number
+                fields:
+              - id: modValue
+                label: Mod value
+                description: Mod value
+                type: Number
+                fields:
+              - id: remainderValue
+                label: Remainder value
+                description: Remainder value
+                fields:
+              - id: showForNewUser
+                label: Show for new user
+                description: Show for new user
+                fields:
+              - id: showForRepeatUser
+                label: Show for repeat user
+                description: Show for repeat user
+                fields:

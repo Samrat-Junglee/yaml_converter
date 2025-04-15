@@ -1,0 +1,4148 @@
+{
+    "lobbyPermissions": {
+        "0": [
+            "location",
+            "contacts"
+        ],
+        "10": [
+            "location",
+            "contacts"
+        ],
+        "401": [
+            "location"
+        ],
+        "407": [
+            "location",
+            "contacts"
+        ],
+        "801": [
+            "location"
+        ]
+    },
+    "paymentUrl": "http://features-payments-inc-hzt-qa-1.howzatfantasy.com",
+    "showStrikedEFConfig": {
+        "10": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 100000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            }
+        }
+    },
+    "showStrikedEFConfigV2": {
+        "10": {
+            "0": {
+                "enabled": {
+                    "minUserId": 0,
+                    "maxUserId": 100000000,
+                    "modValue": 2,
+                    "remainderValue": [
+                        0,
+                        1
+                    ],
+                    "showForNewUser": true,
+                    "showForRepeatUser": true
+                }
+            },
+            "2464": {
+                "enabled": {
+                    "minUserId": 0,
+                    "maxUserId": 100000000,
+                    "modValue": 2,
+                    "remainderValue": [
+                        0,
+                        1
+                    ],
+                    "showForNewUser": true,
+                    "showForRepeatUser": true
+                }
+            },
+            "-1": {
+                "enabled": {
+                    "minUserId": 0,
+                    "maxUserId": 100000000,
+                    "modValue": 1,
+                    "remainderValue": [
+                        1
+                    ],
+                    "showForNewUser": true,
+                    "showForRepeatUser": true
+                }
+            }
+        },
+        "13": {
+            "2464": {
+                "enabled": {
+                    "minUserId": 0,
+                    "maxUserId": 100000000,
+                    "modValue": 2,
+                    "remainderValue": [
+                        0,
+                        1
+                    ],
+                    "showForNewUser": true,
+                    "showForRepeatUser": true
+                }
+            },
+            "-1": {
+                "enabled": {
+                    "minUserId": 0,
+                    "maxUserId": 100000000,
+                    "modValue": 1,
+                    "remainderValue": [
+                        0
+                    ],
+                    "showForNewUser": true,
+                    "showForRepeatUser": true
+                }
+            }
+        },
+        "30": {
+            "2459": {
+                "enabled": {
+                    "minUserId": 0,
+                    "maxUserId": 100000000,
+                    "modValue": 1,
+                    "remainderValue": [0],
+                    "showForNewUser": true,
+                    "showForRepeatUser": true
+                }
+            },
+            "-1": {
+                "enabled": {
+                    "minUserId": 0,
+                    "maxUserId": 100000000,
+                    "modValue": 1,
+                    "remainderValue": [
+                        0,
+                        1
+                    ],
+                    "showForNewUser": true,
+                    "showForRepeatUser": true
+                }
+            }
+        }
+    },
+    "losersTicketClaimConfig": {
+        "10": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 10000000,
+                "modValue": 2,
+                "remainderValue": [
+                    1,
+                    0
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "ticketJoinContestConfig": [
+                {
+                    "mod": 3,
+                    "remainder": [
+                        0
+                    ],
+                    "joinPath": 1
+                },
+                {
+                    "mod": 3,
+                    "remainder": [
+                        1
+                    ],
+                    "joinPath": 1
+                },
+                {
+                    "mod": 3,
+                    "remainder": [
+                        2
+                    ],
+                    "joinPath": 2
+                }
+            ],
+            "joinContestConfig": [
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0,
+                        1
+                    ],
+                    "joinPath": 1
+                }
+            ]
+        },
+        "13": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 10000000,
+                "modValue": 2,
+                "remainderValue": [
+                    1,
+                    0
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "ticketJoinContestConfig": [
+                {
+                    "mod": 3,
+                    "remainder": [
+                        0
+                    ],
+                    "joinPath": 1
+                },
+                {
+                    "mod": 3,
+                    "remainder": [
+                        1
+                    ],
+                    "joinPath": 1
+                },
+                {
+                    "mod": 3,
+                    "remainder": [
+                        2
+                    ],
+                    "joinPath": 2
+                }
+            ],
+            "joinContestConfig": [
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0,
+                        1
+                    ],
+                    "joinPath": 2
+                }
+            ]
+        },
+        "30": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 20000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "ticketJoinContestConfig": [
+                {
+                    "mod": 3,
+                    "remainder": [
+                        0
+                    ],
+                    "joinPath": 0
+                },
+                {
+                    "mod": 3,
+                    "remainder": [
+                        1
+                    ],
+                    "joinPath": 1
+                },
+                {
+                    "mod": 3,
+                    "remainder": [
+                        2
+                    ],
+                    "joinPath": 2
+                }
+            ],
+            "joinContestConfig": [
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0,
+                        1
+                    ],
+                    "joinPath": 1
+                }
+            ]
+        }
+    },
+    "contactsSyncConfig": {
+        "0": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStrip": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStripL0": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStripL1": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStripL2": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/network-strip.png",
+            "allowedStartingDigits": [
+                3,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "helpPopup": {
+                "coolOffSeconds": 20,
+                "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/user-phonebook.png",
+                "title": "Help us improve",
+                "subTitle": "your Howzat experience",
+                "body": "Allow us to make your gaming experience better by connecting with your friends on Junglee Poker",
+                "yesCTAText": "Sure, Make it better",
+                "noCTAText": "Maybe Later"
+            }
+        },
+        "10": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStrip": {
+                "minUserId": 0,
+                "maxUserId": 100000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStripL0": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStripL1": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStripL2": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "allowedStartingDigits": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "helpPopup": {
+                "coolOffSeconds": 5,
+                "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/user-phonebook.png",
+                "title": "Help us improve\nyour Howzat experience",
+                "body": "Allow us to make your gaming experience better by connecting with your friends on Junglee Poker",
+                "yesCTAText": "Sure, Make it better",
+                "noCTAText": "Maybe Later"
+            }
+        },
+        "13": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStrip": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStripL0": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStripL1": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStripL2": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/network-strip.png",
+            "allowedStartingDigits": [
+                3,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "helpPopup": {
+                "coolOffSeconds": 5,
+                "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/user-phonebook.png",
+                "title": "Help us improve better",
+                "subTitle": "your Howzat experience",
+                "body": "Wonderfull and keep going",
+                "yesCTAText": "Sure, Make it better",
+                "noCTAText": "Maybe Later"
+            }
+        },
+        "30": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": false
+            },
+            "enableNetworkStrip": {
+                "minUserId": 0,
+                "maxUserId": 200000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/network-strip.png",
+            "allowedStartingDigits": [
+                3,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "helpPopup": {
+                "coolOffSeconds": 10,
+                "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/user-phonebook.png",
+                "title": "Help us improve",
+                "subTitle": "your Howzat experience",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+                "yesCTAText": "Sure, Make it better",
+                "noCTAText": "Maybe Later"
+            }
+        },
+        "401": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 100000000,
+                "modValue": 2,
+                "remainderValue": [0],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStrip": {
+                "minUserId": 0,
+                "maxUserId": 10000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "allowedStartingDigits": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "helpPopup": {
+                "coolOffSeconds": 0,
+                "imageUrl": "images/poker/phonebook.png",
+                "title": "Help us Improve your\nJunglee Poker Experience",
+                "body": "Allow us to make your gaming experience better by connecting with your friends on Junglee Poker",
+                "yesCTAText": "Sure Make it better",
+                "noCTAText": "Maybe, Later"
+            }
+        },
+        "402": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 100000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "enableNetworkStrip": {
+                "minUserId": 0,
+                "maxUserId": 10000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "allowedStartingDigits": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "helpPopup": {
+                "coolOffSeconds": 0,
+                "imageUrl": "images/poker/phonebook.png",
+                "title": "Help us Improve your\nJunglee Poker Experience",
+                "body": "Allow us to make your gaming experience better by connecting with your friends on Junglee Poker",
+                "yesCTAText": "Sure Make it better",
+                "noCTAText": "Maybe, Later"
+            }
+        }
+    },
+    "useNewMyContestsUrl": false,
+    "isAudienceSegmentsEnabled": true,
+    "isCriteriaSegmentsEnabled": true,
+    "contestOfDayConfigV2": {
+        "10": {
+            "abConfig": {
+                "userBuckets": [
+                    {
+                        "minUserId": 1,
+                        "maxUserId": 1000000000,
+                        "modValue": 1,
+                        "remainderValue": [
+                            0
+                        ],
+                        "showForNewUser": true,
+                        "showForRepeatUser": true
+                    }
+                ]
+            },
+            "showWinnerPercent": true,
+            "showBonusPercent": true,
+            "showGuaranteedBand": {
+                "userBuckets": [
+                    {
+                        "minUserId": 1,
+                        "maxUserId": 1000000000,
+                        "modValue": 2,
+                        "remainderValue": [
+                            0,
+                            1
+                        ],
+                        "showForNewUser": true,
+                        "showForRepeatUser": true
+                    }
+                ]
+            },
+            "ticketExpiryTimerConfig": {
+                "abConfig": {
+                    "userBuckets": [
+                        {
+                            "minUserId": 1,
+                            "maxUserId": 9000000001,
+                            "modValue": 2,
+                            "remainderValue": [
+                                0,
+                                1
+                            ],
+                            "showForNewUser": true,
+                            "showForRepeatUser": true
+                        },
+                        {
+                            "minUserId": 1,
+                            "maxUserId": 9000000001,
+                            "modValue": 2,
+                            "remainderValue": [
+                                1,
+                                0
+                            ],
+                            "showForNewUser": true,
+                            "showForRepeatUser": true
+                        }
+                    ]
+                },
+                "offerText": "Ticket Expires"
+            },
+            "showNewWgUI": {
+                "minUserId": 1,
+                "maxUserId": 1000000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            }
+        },
+        "13": {
+            "abConfig": {
+                "userBuckets": [
+                    {
+                        "minUserId": 1,
+                        "maxUserId": 1000000000,
+                        "modValue": 2,
+                        "remainderValue": [
+                            0
+                        ],
+                        "showForNewUser": true,
+                        "showForRepeatUser": true
+                    },
+                    {
+                        "minUserId": 0,
+                        "maxUserId": 1000000000,
+                        "modValue": 2,
+                        "remainderValue": [
+                            1
+                        ],
+                        "showForNewUser": true,
+                        "showForRepeatUser": true
+                    }
+                ]
+            },
+            "showWinnerPercent": true,
+            "showBonusPercent": true,
+            "showGuaranteedBand": {
+                "userBuckets": [
+                    {
+                        "minUserId": 1,
+                        "maxUserId": 1000000000,
+                        "modValue": 2,
+                        "remainderValue": [0],
+                        "showForNewUser": true,
+                        "showForRepeatUser": false
+                    },
+                    {
+                        "minUserId": 0,
+                        "maxUserId": 1000000000,
+                        "modValue": 2,
+                        "remainderValue": [
+                            0
+                        ],
+                        "showForNewUser": false,
+                        "showForRepeatUser": true
+                    }
+                ]
+            },
+            "ticketExpiryTimerConfig": {
+                "abConfig": {
+                    "userBuckets": [
+                        {
+                            "minUserId": 1,
+                            "maxUserId": 9000000001,
+                            "modValue": 2,
+                            "remainderValue": [
+                                0,
+                                1
+                            ],
+                            "showForNewUser": true,
+                            "showForRepeatUser": true
+                        }
+                    ]
+                },
+                "offerText": "offer Text"
+            },
+            "showNewWgUI": {
+                "minUserId": 1,
+                "maxUserId": 1000000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            }
+        },
+        "30": {
+            "abConfig": {
+                "userBuckets": [
+                    {
+                        "minUserId": 1,
+                        "maxUserId": 1000000000,
+                        "modValue": 2,
+                        "remainderValue": [
+                            0,
+                            1
+                        ],
+                        "showForNewUser": true,
+                        "showForRepeatUser": true
+                    }
+                ]
+            },
+            "showGuaranteedBand": {
+                "userBuckets": [
+                    {
+                        "minUserId": 1,
+                        "maxUserId": 1000000000,
+                        "modValue": 2,
+                        "remainderValue": [
+                            0,
+                            1
+                        ],
+                        "showForNewUser": true,
+                        "showForRepeatUser": true
+                    }
+                ]
+            },
+            "ticketExpiryTimerConfig": {
+                "abConfig": {
+                    "userBuckets": [
+                        {
+                            "minUserId": 1,
+                            "maxUserId": 9000000001,
+                            "modValue": 2,
+                            "remainderValue": [
+                                0,
+                                1
+                            ],
+                            "showForNewUser": true,
+                            "showForRepeatUser": true
+                        }
+                    ]
+                },
+                "offerText": "Ticket Expires in "
+            },
+            "showNewWgUI": {
+                "minUserId": 1,
+                "maxUserId": 1000000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "showWinnerPercent": true,
+            "showBonusPercent": true
+        }
+    },
+    "contestOfDayConfig": {
+        "10": {
+            "enabled": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "minUserId": 0,
+                "maxUserId": 1000000000,
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "showWinnerPercent": true,
+            "showBonusPercent": true
+        },
+        "13": {
+            "enabled": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "minUserId": 0,
+                "maxUserId": 10000000,
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "showWinnerPercent": true,
+            "showBonusPercent": true
+        },
+        "30": {
+            "enabled": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "minUserId": 0,
+                "maxUserId": 100000000,
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "showWinnerPercent": true,
+            "showBonusPercent": true
+        },
+        "31": {
+            "enabled": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "minUserId": 0,
+                "maxUserId": 10000000,
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "showWinnerPercent": true,
+            "showBonusPercent": false
+        }
+    },
+    "impactPlayerConfig": {
+        "enableFor": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        },
+        "showModalPopup": {
+            "url": "https://d2cbroser6kssl.cloudfront.net/images/banners_10/impcat_player_banner.png",
+            "visibilityMod": 2,
+            "visibilityRemainder": [
+                0,
+                1
+            ]
+        }
+    },
+    "egfCollectingUserInfoPopup": {
+        "enableFor": {
+            "modValue": 2,
+            "remainderValue": [0]
+        },
+        "blocked_states": [
+            "TS",
+            "OD",
+            "AS",
+            "NL",
+            "SK",
+            "ML",
+            "AD"
+        ]
+    },
+    "beatFantasyConfig": {
+        "ctaText": "Join Contest"
+    },
+    "kycABConfig": {
+        "10": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        },
+        "13": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        },
+        "21": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        },
+        "23": {
+            "modValue": 2,
+            "remainderValue": [0]
+        },
+        "30": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        },
+        "31": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        },
+        "301": {
+            "modValue": 2,
+            "remainderValue": [
+                0
+            ]
+        },
+        "401": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        },
+        "402": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        },
+        "409": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        },
+        "603": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        }
+    },
+    "hzFantasySeriesId": 2829,
+    "createTeamByUploadConfig": {
+        "visibilityMod": 2,
+        "visibilityRemainder": [
+            0,
+            1
+        ]
+    },
+    "scorecardEnabled": true,
+    "scorecardEnabledForL1": true,
+    "scorecardEnabledForL2": true,
+    "seriesLeague": [
+        20293,
+        20304,
+        20305
+    ],
+    "challengesConfig": {
+        "10": {
+            "enabled": true,
+            "url": "https://www.howzat.com/assets/HeadToHeadRematch.html"
+        },
+        "13": {
+            "enabled": true,
+            "url": "https://www.howzat.com/assets/HeadToHeadRematch.html"
+        },
+        "30": {
+            "enabled": true,
+            "url": "https://www.howzatgames.com/assets/HeadToHeadRematch.html"
+        },
+        "31": {
+            "enabled": true,
+            "url": "https://www.howzatgames.com/assets/HeadToHeadRematch.html"
+        }
+    },
+    "panMandate658Old": false,
+    "scorecardEnabledForCreateTeam": true,
+    "scorePollTimeSeconds": 3,
+    "scorePollTimeSecondsL0": 7,
+    "disableScoreStats": false,
+    "showSabseJyadaWinners": true,
+    "showSabseJyadaWinnersV2": {
+        "10": true,
+        "30": true,
+        "31": true
+    },
+    "showChangeCaptainFeature": true,
+    "heroMatchTitle": "Match of the Day",
+    "lPAudienceWaitingTime": 2,
+    "minUserIdForSFFtue": 900,
+    "cdnUrl": "https://dh6jm89sewqjn.cloudfront.net",
+    "showConfirmationOnUpsellJoin": false,
+    "liveTabs": [
+        {
+            "index": 1,
+            "label": "Prize Breakup",
+            "identifier": "pb",
+            "isEnable": true
+        },
+        {
+            "index": 2,
+            "label": "Leaderboard",
+            "identifier": "lb",
+            "isEnable": true
+        },
+        {
+            "index": 3,
+            "label": "Scorecard",
+            "identifier": "sc",
+            "isEnable": true
+        }
+    ],
+    "showJoinConfirmationOnUpsell": {
+        "visibilityMod": 2,
+        "visibilityRemainder": [
+            0,
+            1
+        ]
+    },
+    "segmentSwitch": 1,
+    "showChatWithUsOnContactUs": {
+        "10": true,
+        "13": true,
+        "30": true,
+        "31": true,
+        "401": true,
+        "801": false
+    },
+    "lobbyPersonalization": {
+        "appOrder": [
+            {
+                "appName": "Howzat",
+                "label": "Fantasy",
+                "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Fantasy_1.png",
+                "index": 1,
+                "disable": false
+            },
+            {
+                "appName": "Rummy",
+                "label": "Rummy",
+                "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Rummy_3.png",
+                "index": 3,
+                "disable": false
+            },
+            {
+                "appName": "Carrom",
+                "label": "Carrom",
+                "imageUrl": "",
+                "index": 4,
+                "disable": false
+            },
+            {
+                "appName": "Poker",
+                "label": "Poker",
+                "imageUrl": "",
+                "index": 5,
+                "disable": false
+            }
+        ]
+    },
+    "lobbyPersonalizationV2": {
+        "10": {
+            "appOrder": [
+                {
+                    "appName": "Howzat",
+                    "label": "Fantasy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Fantasy_1.png",
+                    "index": 1,
+                    "disable": false
+                },
+                {
+                    "appName": "Rummy",
+                    "label": "Rummy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Rummy_3.png",
+                    "index": 3,
+                    "disable": false,
+                    "newTag": true
+                },
+                {
+                    "appName": "Carrom",
+                    "label": "Carrom",
+                    "imageUrl": "",
+                    "index": 4,
+                    "disable": true
+                },
+                {
+                    "appName": "Poker",
+                    "label": "Poker",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Poker_1.png",
+                    "index": 5,
+                    "disable": false,
+                    "newTag": true
+                }
+            ]
+        },
+        "13": {
+            "appOrder": [
+                {
+                    "appName": "Howzat",
+                    "label": "Fantasy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Fantasy_1.png",
+                    "index": 1,
+                    "disable": false
+                },
+                {
+                    "appName": "Rummy",
+                    "label": "Rummy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Rummy_3.png",
+                    "index": 3,
+                    "disable": false
+                },
+                {
+                    "appName": "Carrom",
+                    "label": "Carrom",
+                    "imageUrl": "",
+                    "index": 5,
+                    "disable": false
+                },
+                {
+                    "appName": "Poker",
+                    "label": "Poker",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Poker_1.png",
+                    "index": 4,
+                    "disable": false,
+                    "newTag": true
+                }
+            ]
+        },
+        "21": {
+            "appOrder": [
+                {
+                    "appName": "Howzat",
+                    "label": "Fantasy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Fantasy_1.png",
+                    "index": 1,
+                    "disable": false
+                },
+                {
+                    "appName": "Rummy",
+                    "label": "Rummy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Rummy_3.png",
+                    "index": 3,
+                    "disable": false,
+                    "newTag": true
+                },
+                {
+                    "appName": "Carrom",
+                    "label": "Carrom",
+                    "imageUrl": "",
+                    "index": 4,
+                    "disable": false
+                },
+                {
+                    "appName": "Poker",
+                    "label": "Poker",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Poker_1.png",
+                    "index": 5,
+                    "disable": false,
+                    "newTag": true
+                }
+            ]
+        },
+        "22": {
+            "appOrder": [
+                {
+                    "appName": "Howzat",
+                    "label": "Fantasy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Fantasy_1.png",
+                    "index": 1,
+                    "disable": false
+                },
+                {
+                    "appName": "Rummy",
+                    "label": "Rummy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Rummy_3.png",
+                    "index": 3,
+                    "disable": false,
+                    "newTag": true
+                },
+                {
+                    "appName": "Carrom",
+                    "label": "Carrom",
+                    "imageUrl": "",
+                    "index": 4,
+                    "disable": false
+                },
+                {
+                    "appName": "Poker",
+                    "label": "Poker",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Poker_1.png",
+                    "index": 5,
+                    "disable": false,
+                    "newTag": true
+                }
+            ]
+        },
+        "23": {
+            "appOrder": [
+                {
+                    "appName": "Howzat",
+                    "label": "Fantasy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Fantasy_1.png",
+                    "index": 1,
+                    "disable": false
+                },
+                {
+                    "appName": "Rummy",
+                    "label": "Rummy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Rummy_3.png",
+                    "index": 3,
+                    "disable": false,
+                    "newTag": true
+                },
+                {
+                    "appName": "Carrom",
+                    "label": "Carrom",
+                    "imageUrl": "",
+                    "index": 4,
+                    "disable": false
+                },
+                {
+                    "appName": "Poker",
+                    "label": "Poker",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Poker_1.png",
+                    "index": 5,
+                    "disable": false,
+                    "newTag": true
+                }
+            ]
+        },
+        "30": {
+            "showNewTabUI": true,
+            "tabHighlightCounter": 5,
+            "appOrder": [
+                {
+                    "appName": "Howzat",
+                    "label": "Fantasy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/game_icons/howzatV2.png",
+                    "activeImageUrl": "https://d2cbroser6kssl.cloudfront.net/images/game_icons/howzatV2-highlight.png",
+                    "index": 1,
+                    "disable": false,
+                    "newTag": false
+                },
+                {
+                    "appName": "Rummy",
+                    "label": "Junglee Rummy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/game_icons/rummyV2.png",
+                    "activeImageUrl": "https://d2cbroser6kssl.cloudfront.net/images/game_icons/rummyV2-highlight.png",
+                    "index": 2,
+                    "disable": false,
+                    "newTag": true
+                },
+                {
+                    "appName": "Carrom",
+                    "label": "Carrom",
+                    "imageUrl": "",
+                    "activeImageUrl": "",
+                    "index": 5,
+                    "disable": false,
+                    "newTag": false
+                },
+                {
+                    "appName": "Poker",
+                    "label": "Poker",
+                    "imageUrl": "",
+                    "activeImageUrl": "",
+                    "index": 4,
+                    "disable": false,
+                    "newTag": true
+                }
+            ]
+        },
+        "31": {
+            "showNewTabUI": true,
+            "tabHighlightCounter": 5,
+            "appOrder": [
+                {
+                    "appName": "Howzat",
+                    "label": "Fantasy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/game_icons/howzatV2.png",
+                    "activeImageUrl": "https://d2cbroser6kssl.cloudfront.net/images/game_icons/howzatV2-highlight.png",
+                    "index": 1,
+                    "disable": false,
+                    "newTag": false
+                },
+                {
+                    "appName": "Rummy",
+                    "label": "Rummy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Rummy_3.png",
+                    "index": 2,
+                    "disable": false,
+                    "newTag": true
+                },
+                {
+                    "appName": "Carrom",
+                    "label": "Carrom",
+                    "imageUrl": "",
+                    "activeImageUrl": "",
+                    "index": 5,
+                    "disable": true,
+                    "newTag": false
+                },
+                {
+                    "appName": "Poker",
+                    "label": "Poker",
+                    "imageUrl": "",
+                    "activeImageUrl": "",
+                    "index": 4,
+                    "disable": true,
+                    "newTag": true
+                }
+            ]
+        },
+        "301": {
+            "appOrder": [
+                {
+                    "appName": "Carrom",
+                    "label": "Carrom",
+                    "imageUrl": "",
+                    "index": 5,
+                    "disable": true
+                }
+            ]
+        },
+        "305": "301",
+        "401": {
+            "appOrder": [
+                {
+                    "appName": "Poker",
+                    "label": "Poker",
+                    "imageUrl": "",
+                    "index": 1,
+                    "disable": false
+                }
+            ],
+            "defaultApp": "Poker"
+        },
+        "402": "401",
+        "403": "401",
+        "404": "401",
+        "405": "401",
+        "406": "401",
+        "407": "401",
+        "408": "401",
+        "409": "401",
+        "502": {
+            "appOrder": [
+                {
+                    "appName": "Ludo",
+                    "label": "Ludo iOS",
+                    "imageUrl": "",
+                    "index": 1,
+                    "disable": false
+                }
+            ]
+        },
+        "603": {
+            "appOrder": [
+                {
+                    "appName": "Ludo",
+                    "label": "Ludo Cash",
+                    "imageUrl": "",
+                    "index": 1,
+                    "disable": true
+                }
+            ]
+        },
+        "605": {
+            "appOrder": [
+                {
+                    "appName": "Ludo",
+                    "label": "Ludo PS",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Fantasy_1.png",
+                    "index": 1,
+                    "disable": false
+                },
+                {
+                    "appName": "Howzat",
+                    "label": "Fantasy",
+                    "imageUrl": "https://d2cbroser6kssl.cloudfront.net/images/icons/Fantasy_1.png",
+                    "index": 2,
+                    "disable": false
+                }
+            ]
+        }
+    },
+    "disabledLeagues": [
+        15080
+    ],
+    "scorecardDisabledForSeries": [0],
+    "oldUserConfig": {
+        "newFlowCreateTeamAB": {
+            "modValue": 2,
+            "remainderValue": [0]
+        },
+        "newFlowEnabledAB": {
+            "modValue": 2,
+            "remainderValue": [0]
+        },
+        "upsellingAB": {
+            "modValue": 2,
+            "remainderValue": [0]
+        }
+    },
+    "newUserConfig": {
+        "newFlowCreateTeamAB": {
+            "modValue": 2,
+            "remainderValue": [0]
+        },
+        "newFlowEnabledAB": {
+            "modValue": 2,
+            "remainderValue": [0]
+        },
+        "upsellingAB": {
+            "modValue": 2,
+            "remainderValue": [0]
+        }
+    },
+    "missionInfoButtonEnabled": {
+        "modValue": 2,
+        "remainderValue": [
+            0,
+            1
+        ]
+    },
+    "contestCardConfig": {
+        "prizePoolTickets": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        },
+        "prizePoolWhitegoods": {
+            "modValue": 2,
+            "remainderValue": [
+                1,
+                0
+            ]
+        },
+        "showWhiteGoodsInBrand": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        }
+    },
+    "contestCardConfigV2": {
+        "prizePoolTickets": {
+            "enabled": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "minUserId": 0,
+                "maxUserId": 90000000,
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            }
+        },
+        "prizePoolWhitegoods": {
+            "enabled": {
+                "modValue": 2,
+                "remainderValue": [
+                    1,
+                    0
+                ],
+                "minUserId": 0,
+                "maxUserId": 90000000,
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            }
+        },
+        "showWhiteGoodsInBrand": {
+            "enabled": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "minUserId": 0,
+                "maxUserId": 90000000,
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            }
+        }
+    },
+    "FTUERedirectionConfig": {
+        "10": {
+            "enableFromUserId": 1,
+            "highProfileMatchRedirection": [
+                {
+                    "leagueId": 14602,
+                    "fantasyTemplateId": 1112,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                },
+                {
+                    "leagueId": 14602,
+                    "fantasyTemplateId": 1112,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "addCashRedirection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [0]
+            }
+        },
+        "13": {
+            "enableFromUserId": 1,
+            "highProfileMatchRedirection": [
+                {
+                    "leagueId": 14602,
+                    "fantasyTemplateId": 1112,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                },
+                {
+                    "leagueId": 14602,
+                    "fantasyTemplateId": 1112,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "addCashRedirection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [0]
+            }
+        },
+        "20": {
+            "enableFromUserId": 1,
+            "disableForAll": true,
+            "highProfileMatchRedirection": [
+                {
+                    "leagueId": 14610,
+                    "fantasyTemplateId": 1136,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                },
+                {
+                    "leagueId": 14616,
+                    "fantasyTemplateId": 1146,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "addCashRedirection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [0]
+            }
+        },
+        "21": {
+            "enableFromUserId": 1,
+            "disableForAll": true,
+            "highProfileMatchRedirection": [
+                {
+                    "leagueId": 14610,
+                    "fantasyTemplateId": 1136,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                },
+                {
+                    "leagueId": 14616,
+                    "fantasyTemplateId": 1146,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "addCashRedirection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [0]
+            }
+        },
+        "22": {
+            "enableFromUserId": 1,
+            "disableForAll": true,
+            "highProfileMatchRedirection": [
+                {
+                    "leagueId": 14610,
+                    "fantasyTemplateId": 1136,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                },
+                {
+                    "leagueId": 14616,
+                    "fantasyTemplateId": 1146,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "addCashRedirection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [0]
+            }
+        },
+        "30": {
+            "enableFromUserId": 1,
+            "highProfileMatchRedirection": [
+                {
+                    "leagueId": 14602,
+                    "fantasyTemplateId": 1112,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                },
+                {
+                    "leagueId": 14602,
+                    "fantasyTemplateId": 1112,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "addCashRedirection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [0]
+            }
+        },
+        "31": {
+            "enableFromUserId": 1,
+            "highProfileMatchRedirection": [
+                {
+                    "leagueId": 14602,
+                    "fantasyTemplateId": 1112,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                },
+                {
+                    "leagueId": 14602,
+                    "fantasyTemplateId": 1112,
+                    "sportId": 1,
+                    "visibilityMod": 1,
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "addCashRedirection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [0]
+            }
+        }
+    },
+    "upiConfig": {
+        "10": {
+            "enableIntentFlow": true,
+            "enableCollectFlow": true
+        },
+        "13": {
+            "enableIntentFlow": true,
+            "enableCollectFlow": true
+        },
+        "30": {
+            "enableIntentFlow": true,
+            "enableCollectFlow": true
+        },
+        "31": {
+            "enableIntentFlow": true,
+            "enableCollectFlow": true
+        },
+        "401": {
+            "enableIntentFlow": true,
+            "enableCollectFlow": false
+        },
+        "402": {
+            "enableIntentFlow": true,
+            "enableCollectFlow": false
+        },
+        "501": {
+            "enableIntentFlow": true,
+            "enableCollectFlow": false
+        }
+    },
+    "inningsFantasyConfig": {
+        "10": {
+            "abConfig": [
+                {
+                    "mod": 1,
+                    "remainder": [
+                        0
+                    ],
+                    "minUserId": 1,
+                    "maxUserId": 1000000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [0],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": false,
+                        "joinCTAText": "Please visit Main lobby, Join more contest and win real cash.",
+                        "showLockedINF": false,
+                        "l1RafNudgePosition": 1
+                    }
+                }
+            ],
+            "enableInningsFantasy": true,
+            "onRedirectToL0Text": "Registrations Closed! Please Join Contests for Upcoming Match",
+            "onRedirectToL1Text": "Registrations Closed! Please Join Upcoming Contests",
+            "l1InfoIcon": {
+                "show": true,
+                "title": "Innings/Overs Fantasy",
+                "staticLink": "https://www.howzat.com/assets/InningsFantasyA.html"
+            },
+            "inningsFantasyAppVersion": 6.22,
+            "liveLobbyTabText": [
+                {
+                    "text": "LIVE",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        0,
+                        1
+                    ]
+                }
+            ],
+            "liveLobbyTab": {
+                "visibilityMod": 1,
+                "visibilityRemainder": [0]
+            },
+            "liveSection": {
+                "visibilityMod": 1,
+                "visibilityRemainder": [
+                    0
+                ]
+            },
+            "buttonsOnMatchCard": [
+                {
+                    "type": 1,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 4,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "type": 2,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 2,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "showMatchCardButtonsLiveTab": true,
+            "oversPriority": true,
+            "oversPriorityL1": false
+        },
+        "13": {
+            "abConfig": [
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0,
+                        1
+                    ],
+                    "minUserId": 0,
+                    "maxUserId": 1000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [0],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true,
+                        "l1RafNudgePosition": 1
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0,
+                        1
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true,
+                        "l1RafNudgePosition": 1
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0,
+                        1
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true,
+                        "l1RafNudgePosition": 1
+                    }
+                }
+            ],
+            "enableInningsFantasy": true,
+            "debugLeagueId": 14903,
+            "onRedirectToL0Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Match",
+            "onRedirectToL1Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Contest",
+            "l1InfoIcon": {
+                "show": true,
+                "title": "",
+                "staticLink": "http://howzat.com"
+            },
+            "inningsFantasyAppVersion": 6.2,
+            "liveLobbyTabText": [
+                {
+                    "text": "LIVE",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        1
+                    ]
+                },
+                {
+                    "text": "Live",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                }
+            ],
+            "liveLobbyTab": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "liveSection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "buttonsOnMatchCard": [
+                {
+                    "type": 1,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 4,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "type": 2,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 2,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "showMatchCardButtonsLiveTab": true,
+            "oversPriority": true,
+            "oversPriorityL1": true
+        },
+        "20": {
+            "abConfig": [
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1
+                    ],
+                    "minUserId": 0,
+                    "maxUserId": 0,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0
+                    ],
+                    "minUserId": 0,
+                    "maxUserId": 0,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                }
+            ],
+            "enableInningsFantasy": true,
+            "debugLeagueId": 14903,
+            "onRedirectToL0Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Match",
+            "onRedirectToL1Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Contest",
+            "l1InfoIcon": {
+                "show": true,
+                "title": "",
+                "staticLink": "http://howzat.com"
+            },
+            "inningsFantasyAppVersion": 6.2,
+            "liveLobbyTabText": [
+                {
+                    "text": "LIVE",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        1
+                    ]
+                },
+                {
+                    "text": "Live",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                }
+            ],
+            "liveLobbyTab": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "liveSection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "buttonsOnMatchCard": [
+                {
+                    "type": 1,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 4,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [0]
+                },
+                {
+                    "type": 2,
+                    "textPrefix": "Play",
+                    "showTimer": true,
+                    "visibilityMod": 2,
+                    "bgColor": "0xff0000ff",
+                    "textColor": "0xff00ff00",
+                    "borderColor": "0xff00ff00",
+                    "visibilityRemainder": [
+                        0,
+                        1
+                    ]
+                }
+            ],
+            "showMatchCardButtonsLiveTab": true,
+            "oversPriority": true,
+            "oversPriorityL1": true
+        },
+        "21": {
+            "abConfig": [
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1,
+                        0
+                    ],
+                    "minUserId": 0,
+                    "maxUserId": 350000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                }
+            ],
+            "enableInningsFantasy": true,
+            "debugLeagueId": 14903,
+            "onRedirectToL0Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Match",
+            "onRedirectToL1Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Contest",
+            "l1InfoIcon": {
+                "show": true,
+                "title": "",
+                "staticLink": "http://howzat.com"
+            },
+            "inningsFantasyAppVersion": 6.2,
+            "liveLobbyTabText": [
+                {
+                    "text": "LIVE",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        1
+                    ]
+                },
+                {
+                    "text": "Live",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                }
+            ],
+            "liveLobbyTab": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "liveSection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "buttonsOnMatchCard": [
+                {
+                    "type": 1,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 4,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "type": 2,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 2,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "showMatchCardButtonsLiveTab": true,
+            "oversPriority": true,
+            "oversPriorityL1": true
+        },
+        "22": {
+            "abConfig": [
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1,
+                        0
+                    ],
+                    "minUserId": 0,
+                    "maxUserId": 350000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                }
+            ],
+            "enableInningsFantasy": true,
+            "debugLeagueId": 14903,
+            "onRedirectToL0Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Match",
+            "onRedirectToL1Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Contest",
+            "l1InfoIcon": {
+                "show": true,
+                "title": "",
+                "staticLink": "http://howzat.com"
+            },
+            "inningsFantasyAppVersion": 6.2,
+            "liveLobbyTabText": [
+                {
+                    "text": "LIVE",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        1
+                    ]
+                },
+                {
+                    "text": "Live",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                }
+            ],
+            "liveLobbyTab": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "liveSection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "buttonsOnMatchCard": [
+                {
+                    "type": 1,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 4,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "type": 2,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 2,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "showMatchCardButtonsLiveTab": true,
+            "oversPriority": true,
+            "oversPriorityL1": true
+        },
+        "23": {
+            "abConfig": [
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1,
+                        0
+                    ],
+                    "minUserId": 0,
+                    "maxUserId": 350000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                }
+            ],
+            "enableInningsFantasy": true,
+            "debugLeagueId": 14903,
+            "onRedirectToL0Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Match",
+            "onRedirectToL1Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Contest",
+            "l1InfoIcon": {
+                "show": true,
+                "title": "",
+                "staticLink": "http://howzat.com"
+            },
+            "inningsFantasyAppVersion": 6.2,
+            "liveLobbyTabText": [
+                {
+                    "text": "LIVE",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        1
+                    ]
+                },
+                {
+                    "text": "Live",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                }
+            ],
+            "liveLobbyTab": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "liveSection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "buttonsOnMatchCard": [
+                {
+                    "type": 1,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 4,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "type": 2,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 2,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "showMatchCardButtonsLiveTab": true,
+            "oversPriority": true,
+            "oversPriorityL1": true
+        },
+        "24": {
+            "abConfig": [
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1,
+                        0
+                    ],
+                    "minUserId": 0,
+                    "maxUserId": 350000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true
+                    }
+                }
+            ],
+            "enableInningsFantasy": true,
+            "debugLeagueId": 14903,
+            "onRedirectToL0Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Match",
+            "onRedirectToL1Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Contest",
+            "l1InfoIcon": {
+                "show": true,
+                "title": "",
+                "staticLink": "http://howzat.com"
+            },
+            "inningsFantasyAppVersion": 6.2,
+            "liveLobbyTabText": [
+                {
+                    "text": "LIVE",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        1
+                    ]
+                },
+                {
+                    "text": "Live",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                }
+            ],
+            "liveLobbyTab": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [0]
+            },
+            "liveSection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    4
+                ]
+            },
+            "buttonsOnMatchCard": [
+                {
+                    "type": 1,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 4,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "type": 2,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 2,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "showMatchCardButtonsLiveTab": true,
+            "oversPriority": true,
+            "oversPriorityL1": true
+        },
+        "30": {
+            "abConfig": [
+                {
+                    "mod": 1,
+                    "remainder": [
+                        0
+                    ],
+                    "minUserId": 0,
+                    "maxUserId": 1000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true,
+                        "l1RafNudgePosition": 1
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true,
+                        "l1RafNudgePosition": 1
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true,
+                        "l1RafNudgePosition": 1
+                    }
+                }
+            ],
+            "enableInningsFantasy": true,
+            "debugLeagueId": 14903,
+            "onRedirectToL0Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Match",
+            "onRedirectToL1Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Contest",
+            "l1InfoIcon": {
+                "show": true,
+                "title": "",
+                "staticLink": "http://howzat.com"
+            },
+            "inningsFantasyAppVersion": 6.2,
+            "liveLobbyTabText": [
+                {
+                    "text": "LIVE",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        1
+                    ]
+                },
+                {
+                    "text": "Live",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                }
+            ],
+            "liveLobbyTab": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "liveSection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "buttonsOnMatchCard": [
+                {
+                    "type": 1,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 4,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "type": 2,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 2,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "showMatchCardButtonsLiveTab": true,
+            "oversPriority": true,
+            "oversPriorityL1": true
+        },
+        "31": {
+            "abConfig": [
+                {
+                    "mod": 1,
+                    "remainder": [
+                        0
+                    ],
+                    "minUserId": 0,
+                    "maxUserId": 1000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true,
+                        "l1RafNudgePosition": 1
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        1
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true,
+                        "l1RafNudgePosition": 1
+                    }
+                },
+                {
+                    "mod": 2,
+                    "remainder": [
+                        0
+                    ],
+                    "minUserId": 350000,
+                    "maxUserId": 10000000,
+                    "config": {
+                        "disable": false,
+                        "enableLiveFantasyForSeries": [
+                            752
+                        ],
+                        "fantasySelected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-selected.png",
+                        "fantasyDeselected": "https://d2cbroser6kssl.cloudfront.net/images/banners/live-fantasy-deselected.png",
+                        "contestPollingTimer": 15,
+                        "enableFantasyForUpcoming": true,
+                        "enableFantasyForLiveAndCompleted": true,
+                        "joinCTAText": "Join more contest and win real cash and Join more contest and win real cash",
+                        "showLockedINF": true,
+                        "l1RafNudgePosition": 1
+                    }
+                }
+            ],
+            "enableInningsFantasy": false,
+            "debugLeagueId": 14903,
+            "onRedirectToL0Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Match",
+            "onRedirectToL1Text": "Registrations Closed for this Contest. Please Join Contest for Upcoming Contest",
+            "l1InfoIcon": {
+                "show": true,
+                "title": "",
+                "staticLink": "http://howzat.com"
+            },
+            "inningsFantasyAppVersion": 6.2,
+            "liveLobbyTabText": [
+                {
+                    "text": "LIVE",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        1
+                    ]
+                },
+                {
+                    "text": "Live",
+                    "image": "https://d2cbroser6kssl.cloudfront.net/images/howzat/imgs/ripple-green.gif",
+                    "visibilityMod": 2,
+                    "visibilityRemainder": [
+                        0
+                    ]
+                }
+            ],
+            "liveLobbyTab": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "liveSection": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    0,
+                    1
+                ]
+            },
+            "buttonsOnMatchCard": [
+                {
+                    "type": 1,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 4,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "type": 2,
+                    "textPrefix": "Play ",
+                    "showTimer": true,
+                    "visibilityMod": 2,
+                    "bgColor": "0xff508141",
+                    "textColor": "0xffFFFFFF",
+                    "borderColor": "0xff6d9e5f",
+                    "visibilityRemainder": [0]
+                }
+            ],
+            "showMatchCardButtonsLiveTab": true,
+            "oversPriority": true,
+            "oversPriorityL1": true
+        }
+    },
+    "stringConfig": {
+        "lowBalanceDisclaimer": "",
+        "lowBalanceThanMinDeposit": "DEPOSIT NOW & JOIN",
+        "lowBalance": "DEPOSIT NOW & JOIN",
+        "lobbyNoUpcomingMatches": "There are no upcoming matches at the moment. Checkout another sport!",
+        "lobbyNoMatchesInningsFantasy": "There are no LIVE matches at the moment!",
+        "liveTabTextInningsFantasy": "live",
+        "noMyTeams": "No teams are found, create some dude",
+        "noJoinedContest": "No contests are found",
+        "kycInfo": {
+            "addressVerification": [
+                "• Your date of birth in the document should match our records.",
+                "• The document you upload should not be linked to another Howzat account.",
+                "• The document should be clear, unedited and legitimate."
+            ],
+            "panVerification": [
+                "• Your address verification should match (Name, DOB, Address).",
+                "• The document you upload should not be linked to another Howzat account.",
+                "• The document should be clear, unedited and legitimate."
+            ]
+        },
+        "promoCodeButton": {
+            "applyPromo": "Apply Promo",
+            "promoApplied": "Promo Applied"
+        }
+    },
+    "defaultStripeBgColor": "0xFF87CEEB",
+    "defaultStripeTextColor": "0xFF000000",
+    "topStripes": [0],
+    "bottomStripes": [0],
+    "pollTimeSeconds": 5,
+    "winningZonePollTimeSeconds": 5,
+    "myMatchesBannerVisibility": 0,
+    "refreshTimeSeconds": 15,
+    "leaderboardPollTimeSeconds": 10,
+    "leaderboardRefreshTimeSeconds": 10,
+    "downloadTeams": true,
+    "downloadTeamsConfig": {
+        "0": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 1000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "disableForLeagueIdBelow": 25980,
+            "disabledMsg": "Teams Not Available"
+        },
+        "10": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 900000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "disableForLeagueIdBelow": 2500,
+            "disabledMsg": "Teams Not Available"
+        },
+        "13": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 9000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "disableForLeagueIdBelow": 2500,
+            "disabledMsg": "Teams Not Available"
+        },
+        "30": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 100000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "disableForLeagueIdBelow": 25000,
+            "disabledMsg": "Teams Not Available"
+        },
+        "31": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 1000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "disableForLeagueIdBelow": 250,
+            "disabledMsg": "Teams Not Available"
+        },
+        "402": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 1000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "disableForLeagueIdBelow": 22950,
+            "disabledMsg": "Teams Not Available"
+        },
+        "404": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 1000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "disableForLeagueIdBelow": 22950,
+            "disabledMsg": "Teams Not Available"
+        },
+        "405": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 1000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "disableForLeagueIdBelow": 22950,
+            "disabledMsg": "Teams Not Available"
+        },
+        "406": {
+            "enabled": true
+        },
+        "407": {
+            "enabled": {
+                "minUserId": 0,
+                "maxUserId": 1000000,
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ],
+                "showForNewUser": true,
+                "showForRepeatUser": true
+            },
+            "disableForLeagueIdBelow": 22950,
+            "disabledMsg": "Teams Not Available"
+        }
+    },
+    "forceMobileVerification": {
+        "10": false,
+        "30": false,
+        "31": false
+    },
+    "loginOTPLength": 6,
+    "showTimer": 6,
+    "futureMatchMessage": "Contests for this match will open soon!",
+    "enableBrandIcon": true,
+    "autoReadLoginOtp": {
+        "10": true,
+        "13": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "30": true,
+        "31": true
+    },
+    "minDepositForJoinContest": 27,
+    "useManualSorting": false,
+    "dreamTeamConfig": 2,
+    "smsRestrictionDurationContestShare": 60000,
+    "lineUpText": "Lineups Out",
+    "lineUpTextColor": "#258629",
+    "numberOfMissionByBrand": {
+        "1": 1,
+        "2": 3,
+        "3": 3,
+        "4": 1,
+        "5": 3,
+        "6": 3
+    },
+    "playerImagePrefix": "",
+    "playerImagePrefixV2": "https://d2cbroser6kssl.cloudfront.net/images/players_test/player_",
+    "playerImagePostfix": ".png",
+    "showPlayerImage": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true
+    },
+    "openPaymentModeForLowBalance": false,
+    "launchPaymentModeForLowBalance": {
+        "mod": 1,
+        "remainder": [0]
+    },
+    "sportsConfig": {
+        "sports": {
+            "10": {
+                "CRICKET": 1,
+                "KABADDI": 2,
+                "FOOTBALL": 3,
+                "BASKETBALL": 4
+            },
+            "13": {
+                "CRICKET": 1,
+                "KABADDI": 3,
+                "FOOTBALL": 2,
+                "BASKETBALL": 4
+            },
+            "20": {
+                "CRICKET": 1,
+                "KABADDI": 3,
+                "FOOTBALL": 2,
+                "BASKETBALL": 4
+            },
+            "21": {
+                "CRICKET": 1,
+                "KABADDI": 3,
+                "FOOTBALL": 2
+            },
+            "22": {
+                "CRICKET": 1,
+                "KABADDI": 3,
+                "FOOTBALL": 2
+            },
+            "23": {
+                "CRICKET": 1,
+                "KABADDI": 3,
+                "FOOTBALL": 2
+            },
+            "30": {
+                "CRICKET": 1,
+                "KABADDI": 2,
+                "FOOTBALL": 3,
+                "BASKETBALL": 4
+            },
+            "31": {
+                "CRICKET": 1,
+                "KABADDI": 3,
+                "FOOTBALL": 2
+            }
+        },
+        "sportsV2": {
+            "10": {
+                "CRICKET": {
+                    "id": 1,
+                    "activeIcon": "",
+                    "icon": "images/howzat/sports/cricket.png"
+                },
+                "KABADDI": {
+                    "id": 3,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "FOOTBALL": {
+                    "id": 2,
+                    "activeIcon": "",
+                    "icon": ""
+                }
+            },
+            "13": {
+                "CRICKET": {
+                    "id": 1,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "FOOTBALL": {
+                    "id": 3,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "KABADDI": {
+                    "id": 2,
+                    "activeIcon": "",
+                    "icon": ""
+                }
+            },
+            "20": {
+                "CRICKET": {
+                    "id": 1,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "FOOTBALL": {
+                    "id": 2,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "KABADDI": {
+                    "id": 3,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "BASKETBALL": {
+                    "id": 4,
+                    "activeIcon": "",
+                    "icon": ""
+                }
+            },
+            "21": {
+                "CRICKET": {
+                    "id": 1,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "FOOTBALL": {
+                    "id": 2,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "KABADDI": {
+                    "id": 3,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "BASKETBALL": {
+                    "id": 4,
+                    "activeIcon": "",
+                    "icon": ""
+                }
+            },
+            "22": {
+                "CRICKET": {
+                    "id": 1,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "FOOTBALL": {
+                    "id": 2,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "KABADDI": {
+                    "id": 3,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "BASKETBALL": {
+                    "id": 4,
+                    "activeIcon": "",
+                    "icon": ""
+                }
+            },
+            "23": {
+                "CRICKET": {
+                    "id": 1,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "FOOTBALL": {
+                    "id": 2,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "KABADDI": {
+                    "id": 3,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "BASKETBALL": {
+                    "id": 4,
+                    "activeIcon": "",
+                    "icon": ""
+                }
+            },
+            "24": {
+                "CRICKET": {
+                    "id": 1,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "FOOTBALL": {
+                    "id": 2,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "KABADDI": {
+                    "id": 3,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "BASKETBALL": {
+                    "id": 4,
+                    "activeIcon": "",
+                    "icon": ""
+                }
+            },
+            "30": {
+                "CRICKET": {
+                    "id": 1,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "KABADDI": {
+                    "id": 3,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "FOOTBALL": {
+                    "id": 2,
+                    "activeIcon": "",
+                    "icon": ""
+                }
+            },
+            "31": {
+                "CRICKET": {
+                    "id": 1,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "KABADDI": {
+                    "id": 3,
+                    "activeIcon": "",
+                    "icon": ""
+                },
+                "FOOTBALL": {
+                    "id": 2,
+                    "activeIcon": "",
+                    "icon": ""
+                }
+            }
+        },
+        "sportsAB": [
+            {
+                "mod": 3,
+                "remainder": [0],
+                "configs": {
+                    "KABADDI": "",
+                    "CRICKET": ""
+                }
+            }
+        ],
+        "playingStyleLabels": {
+            "10": {
+                "1": "WK",
+                "2": "BAT",
+                "3": "BOWL",
+                "4": "AR",
+                "5": "GK",
+                "6": "DEF",
+                "7": "MID",
+                "8": "FRWD",
+                "9": "RAI",
+                "10": "AR",
+                "11": "DEF",
+                "12": "PG",
+                "13": "SG",
+                "14": "SF",
+                "15": "PF",
+                "16": "CEN"
+            },
+            "13": {
+                "1": "WK",
+                "2": "BAT",
+                "3": "BOWL",
+                "4": "AR",
+                "5": "GK",
+                "6": "DEF",
+                "7": "MID",
+                "8": "FRWD",
+                "9": "RAI",
+                "10": "AR",
+                "11": "DEF",
+                "12": "PG",
+                "13": "SG",
+                "14": "SF",
+                "15": "PF",
+                "16": "CEN"
+            },
+            "20": {
+                "1": "WK",
+                "2": "BAT",
+                "3": "BOWL",
+                "4": "AR",
+                "5": "GK",
+                "6": "DEF",
+                "7": "MID",
+                "8": "FRWD",
+                "9": "RAI",
+                "10": "AR",
+                "11": "DEF"
+            },
+            "21": {
+                "1": "WK",
+                "2": "BAT",
+                "3": "BOWL",
+                "4": "AR",
+                "5": "GK",
+                "6": "DEF",
+                "7": "MID",
+                "8": "FRWD",
+                "9": "RAI",
+                "10": "AR",
+                "11": "DEF",
+                "12": "PG",
+                "13": "SG",
+                "14": "SF",
+                "15": "PF",
+                "16": "CEN"
+            },
+            "22": {
+                "1": "WK",
+                "2": "BAT",
+                "3": "BOWL",
+                "4": "AR",
+                "5": "GK",
+                "6": "DEF",
+                "7": "MID",
+                "8": "FRWD",
+                "9": "RAI",
+                "10": "AR",
+                "11": "DEF",
+                "12": "PG",
+                "13": "SG",
+                "14": "SF",
+                "15": "PF",
+                "16": "CEN"
+            },
+            "23": {
+                "1": "WK",
+                "2": "BAT",
+                "3": "BOWL",
+                "4": "AR",
+                "5": "GK",
+                "6": "DEF",
+                "7": "MID",
+                "8": "FRWD",
+                "9": "RAI",
+                "10": "AR",
+                "11": "DEF",
+                "12": "PG",
+                "13": "SG",
+                "14": "SF",
+                "15": "PF",
+                "16": "CEN"
+            },
+            "30": {
+                "1": "WK",
+                "2": "BAT",
+                "3": "BOWL",
+                "4": "AR",
+                "5": "GK",
+                "6": "DEF",
+                "7": "MID",
+                "8": "FRWD",
+                "9": "RAI",
+                "10": "AR",
+                "11": "DEF",
+                "12": "PG",
+                "13": "SG",
+                "14": "SF",
+                "15": "PF",
+                "16": "CEN"
+            },
+            "31": {
+                "1": "WK",
+                "2": "BAT",
+                "3": "BOWL",
+                "4": "AR",
+                "5": "GK",
+                "6": "DEF",
+                "7": "MID",
+                "8": "FRWD",
+                "9": "RAI",
+                "10": "AR",
+                "11": "DEF",
+                "12": "PG",
+                "13": "SG",
+                "14": "SF",
+                "15": "PF",
+                "16": "CEN"
+            }
+        }
+    },
+    "nonPlayingStatusConfig": {
+        "styleConfig": {
+            "soundFileName": "howzat_tone1.mp3",
+            "channelId": "offers",
+            "channelName": "offers"
+        },
+        "fcm_topic": "test004",
+        "dl_page_route": "myteams",
+        "autoDeselectNonPlayingPlayers": true,
+        "isFeatureEnabled": true,
+        "isEnabledForSeries": false,
+        "enabledSeriesId": [0],
+        "bodyForNPPZeroCount": "😒 Join the Rs.2,00,000 Grand League (1st Prize: Rs.20,000 💸) before 6 PM today.",
+        "showDefaultFormat": {
+            "bodyText": "😒 💸 Join the Rs.2,00,000 Grand League (1st Prize: Rs.20,000) before 6 PM today.",
+            "mod": 4,
+            "remainder": [
+                0
+            ]
+        },
+        "showAllPlayersFormat": {
+            "bodyText": "😒 💸 not playing today. Replace them to make your team stronger!",
+            "mod": 4,
+            "remainder": [
+                1
+            ]
+        },
+        "showOnePlayerFormat": {
+            "bodyText": "😒💸 not playing today. Replace them to make your team stronger!",
+            "mod": 4,
+            "remainder": [
+                2
+            ]
+        },
+        "showOnlyPlayerCountFormat": {
+            "bodyText": "😒💸 not playing today. Replace them to make your team stronger!",
+            "mod": 4,
+            "remainder": [
+                3
+            ]
+        }
+    },
+    "addCashButtonConfig": [
+        {
+            "value": 0,
+            "visibilityMod": 4,
+            "visibilityRemainders": [
+                1
+            ]
+        },
+        {
+            "value": 1,
+            "visibilityMod": 4,
+            "visibilityRemainders": [
+                2
+            ]
+        },
+        {
+            "value": 2,
+            "visibilityMod": 4,
+            "visibilityRemainders": [
+                3
+            ]
+        },
+        {
+            "value": 3,
+            "visibilityMod": 4,
+            "visibilityRemainders": [
+                0
+            ]
+        }
+    ],
+    "missionsFTUEImages": [
+        "https://d2cbroser6kssl.cloudfront.net/images/ftv/help/missions.1.jpg",
+        "https://d2cbroser6kssl.cloudfront.net/images/ftv/help/missions.2.jpg",
+        "https://d2cbroser6kssl.cloudfront.net/images/ftv/help/missions.3.jpg",
+        "https://d2cbroser6kssl.cloudfront.net/images/ftv/help/missions.4.jpg",
+        "https://d2cbroser6kssl.cloudfront.net/images/ftv/help/missions.5.jpg"
+    ],
+    "joinTicketConfirmationPopup": {
+        "10": {
+            "ticketsCountToShow": 4,
+            "ctaText": "JOIN",
+            "enablePopup": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    3
+                ]
+            },
+            "showStrikeDiscountOnL2": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    1,
+                    0
+                ]
+            }
+        },
+        "30": {
+            "ticketsCountToShow": 4,
+            "ctaText": "JOIN",
+            "enablePopup": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [0]
+            },
+            "showStrikeDiscountOnL2": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    1,
+                    0
+                ]
+            }
+        },
+        "31": {
+            "ticketsCountToShow": 4,
+            "ctaText": "JOIN",
+            "enablePopup": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [0]
+            },
+            "showStrikeDiscountOnL2": {
+                "visibilityMod": 2,
+                "visibilityRemainder": [
+                    1,
+                    0
+                ]
+            }
+        }
+    },
+    "rummySpingGoConfig": {
+        "10": {
+            "userBuckets": [
+                {
+                    "enableFromVersion": 6.58,
+                    "min": 1,
+                    "max": 10000000,
+                    "modValue": 2,
+                    "remainderValue": [
+                        0,
+                        1
+                    ]
+                }
+            ]
+        },
+        "30": {
+            "userBuckets": [
+                {
+                    "min": 1,
+                    "max": 10000000,
+                    "modValue": 2,
+                    "remainderValue": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "min": 1001,
+                    "max": 200000000,
+                    "config": {
+                        "modValue": 2,
+                        "remainderValue": [
+                            0,
+                            1
+                        ]
+                    }
+                }
+            ]
+        },
+        "31": {
+            "userBuckets": [
+                {
+                    "min": 1,
+                    "max": 10000000,
+                    "modValue": 2,
+                    "remainderValue": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "min": 1001,
+                    "max": 200000000,
+                    "config": {
+                        "modValue": 2,
+                        "remainderValue": [
+                            0,
+                            1
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    "disableSFReq": false,
+    "contestFilterAndSortConfig": {
+        "10": {
+            "showContestSort": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ]
+            },
+            "showContestFilter": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ]
+            },
+            "showFilterByCategory": {
+                "modValue": 2,
+                "remainderValue": [0]
+            },
+            "filterConfig": [
+                {
+                    "type": "Entry",
+                    "values": {
+                        "0-50": "₹1 - ₹50",
+                        "51-100": "₹51 - ₹100",
+                        "101-1000": "₹101 - ₹1,000",
+                        "1001-100000": "₹1,001 & above"
+                    }
+                },
+                {
+                    "type": "Seats",
+                    "values": {
+                        "0-2": "2",
+                        "3-10": "3-10",
+                        "11-100": "11-100",
+                        "101-1000": "101-1,000",
+                        "1001-10000000": "1,001 & above"
+                    }
+                },
+                {
+                    "type": "Prize",
+                    "values": {
+                        "1-10000": "₹1 - ₹10,000",
+                        "10001-50000": "₹10,001 - ₹50,000",
+                        "50001-100000": "₹50,000 - ₹1Lakh",
+                        "100001-300000": "₹1Lakh - ₹3Lakh",
+                        "300001-5000000": "₹3Lakh - ₹50Lakh"
+                    }
+                },
+                {
+                    "type": "ContestType",
+                    "values": {
+                        "3": "Winner Takes All",
+                        "4": "Head to Head",
+                        "40": "Grand League",
+                        "44": "4x Multiplier",
+                        "45": "5x Multiplier",
+                        "48": "10x Multiplier",
+                        "49": "Hot Contest",
+                        "142": "Ultimate XI",
+                        "143": "Super 6",
+                        "154": "Beginners Contest",
+                        "166": "Fightback like Pathan",
+                        "169": "Popular",
+                        "173": "Double Dhamaka",
+                        "176": "3x Multiplier",
+                        "183": "Bonus Contest",
+                        "208": "Mega League",
+                        "211": "Guaranteed",
+                        "218": "Bonanza 99"
+                    }
+                },
+                {
+                    "type": "Winners",
+                    "values": {
+                        "0-50": "1% - 50%",
+                        "50-70": "51% - 70%",
+                        "70-99": "71% to 99%",
+                        "99-100": "100%"
+                    }
+                }
+            ],
+            "sortConfig": [
+                {
+                    "name": "Entry",
+                    "show": true
+                },
+                {
+                    "name": "Seats",
+                    "show": true
+                },
+                {
+                    "name": "Prize",
+                    "show": true
+                },
+                {
+                    "name": "Winners",
+                    "show": true
+                }
+            ]
+        },
+        "13": {
+            "showContestSort": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ]
+            },
+            "showContestFilter": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ]
+            },
+            "showFilterByCategory": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ]
+            },
+            "filterConfig": [
+                {
+                    "type": "Prize",
+                    "values": {
+                        "1000-10000": "₹1,000 - ₹10,000",
+                        "10000-100000": "₹10,000 - ₹1 Lakh",
+                        "100000-500000": "₹1 Lakh - ₹5 Lakh",
+                        "500000-": "₹5 Lakh and above"
+                    }
+                },
+                {
+                    "type": "Entry",
+                    "values": {
+                        "0-5": "₹0 - ₹5",
+                        "5-10": "₹5 - ₹10",
+                        "10-50": "₹10 - ₹50",
+                        "50-100": "₹50 - ₹100",
+                        "100-500": "₹100 - ₹500",
+                        "500-1000": "₹500 - ₹1,000",
+                        "1000-10000": "₹1,000 - ₹10,000",
+                        "10000-": "₹10,000 and above"
+                    }
+                },
+                {
+                    "type": "ContestType",
+                    "values": {
+                        "3": "Winner takes all",
+                        "4": "Head to Head",
+                        "43": "5x Multiplier1",
+                        "66": "Ultimate XI",
+                        "130": "Guaranteed Contest",
+                        "10126": "10-KA-DUM",
+                        "10128": "Others",
+                        "10129": "Others"
+                    }
+                },
+                {
+                    "type": "Seats",
+                    "values": {
+                        "0-2": "0-2",
+                        "2-5": "2-5",
+                        "5-50": "5-50",
+                        "50-1000": "50-1,000",
+                        "1000-2000": "1,000-2,000",
+                        "2000-": "2,000 and above"
+                    }
+                },
+                {
+                    "type": "Winners",
+                    "values": {
+                        "5-10": "5% to 10%",
+                        "10-20": "10% to 20%",
+                        "20-30": "20% to 30%",
+                        "30-40": "30% to 40%"
+                    }
+                }
+            ],
+            "sortConfig": [
+                {
+                    "name": "Prize",
+                    "show": true
+                },
+                {
+                    "name": "Seats",
+                    "show": true
+                },
+                {
+                    "name": "Entry",
+                    "show": true
+                },
+                {
+                    "name": "Winners",
+                    "show": true
+                }
+            ]
+        },
+        "30": {
+            "showContestSort": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ]
+            },
+            "showContestFilter": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ]
+            },
+            "showFilterByCategory": {
+                "modValue": 2,
+                "remainderValue": [0]
+            },
+            "filterConfig": [
+                {
+                    "type": "Prize",
+                    "values": {
+                        "1000-10000": "₹1,000 - ₹10,000",
+                        "10000-100000": "₹10,000 - ₹1 Lakh",
+                        "100000-500000": "₹1 Lakh - ₹5 Lakh",
+                        "500000-": "₹5 Lakh and above"
+                    }
+                },
+                {
+                    "type": "Entry",
+                    "values": {
+                        "0-5": "₹0 - ₹5",
+                        "5-10": "₹5 - ₹10",
+                        "10-50": "₹10 - ₹50",
+                        "50-100": "₹50 - ₹100",
+                        "100-500": "₹100 - ₹500",
+                        "500-1000": "₹500 - ₹1,000",
+                        "1000-10000": "₹1,000 - ₹10,000",
+                        "10000-": "₹10,000 and above"
+                    }
+                },
+                {
+                    "type": "ContestType",
+                    "values": {
+                        "3": "Winner takes all",
+                        "4": "Head to Head",
+                        "43": "5x Multiplier1",
+                        "66": "Ultimate XI",
+                        "130": "Guaranteed Contest",
+                        "10126": "10-KA-DUM",
+                        "10128": "3x Multiplier"
+                    }
+                },
+                {
+                    "type": "Seats",
+                    "values": {
+                        "0-2": "0-2",
+                        "2-5": "2-5",
+                        "5-50": "5-50",
+                        "50-1000": "50-1,000",
+                        "1000-2000": "1,000-2,000",
+                        "2000-": "2,000 and above"
+                    }
+                },
+                {
+                    "type": "Winners",
+                    "values": {
+                        "5-10": "5% to 10%",
+                        "10-20": "10% to 20%",
+                        "20-30": "20% to 30%",
+                        "30-40": "30% to 40%"
+                    }
+                }
+            ],
+            "sortConfig": [
+                {
+                    "name": "Prize",
+                    "show": true
+                },
+                {
+                    "name": "Seats",
+                    "show": true
+                },
+                {
+                    "name": "Entry",
+                    "show": true
+                },
+                {
+                    "name": "Winners",
+                    "show": true
+                }
+            ]
+        },
+        "31": {
+            "showContestSort": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ]
+            },
+            "showContestFilter": {
+                "modValue": 2,
+                "remainderValue": [
+                    0,
+                    1
+                ]
+            },
+            "showFilterByCategory": {
+                "modValue": 2,
+                "remainderValue": [0]
+            },
+            "filterConfig": [
+                {
+                    "type": "Prize",
+                    "values": {
+                        "1000-10000": "₹1,000 - ₹10,000",
+                        "10000-100000": "₹10,000 - ₹1 Lakh",
+                        "100000-500000": "₹1 Lakh - ₹5 Lakh",
+                        "500000-": "₹5 Lakh and above"
+                    }
+                },
+                {
+                    "type": "Entry",
+                    "values": {
+                        "0-5": "₹0 - ₹5",
+                        "5-10": "₹5 - ₹10",
+                        "10-50": "₹10 - ₹50",
+                        "50-100": "₹50 - ₹100",
+                        "100-500": "₹100 - ₹500",
+                        "500-1000": "₹500 - ₹1,000",
+                        "1000-10000": "₹1,000 - ₹10,000",
+                        "10000-": "₹10,000 and above"
+                    }
+                },
+                {
+                    "type": "ContestType",
+                    "values": {
+                        "3": "Winner takes all",
+                        "4": "Head to Head",
+                        "43": "5x Multiplier1",
+                        "66": "Ultimate XI",
+                        "130": "Guaranteed Contest",
+                        "10126": "10-KA-DUM",
+                        "10128": "3x Multiplier"
+                    }
+                },
+                {
+                    "type": "Seats",
+                    "values": {
+                        "0-2": "0-2",
+                        "2-5": "2-5",
+                        "5-50": "5-50",
+                        "50-1000": "50-1,000",
+                        "1000-2000": "1,000-2,000",
+                        "2000-": "2,000 and above"
+                    }
+                },
+                {
+                    "type": "Winners",
+                    "values": {
+                        "5-10": "5% to 10%",
+                        "10-20": "10% to 20%",
+                        "20-30": "20% to 30%",
+                        "30-40": "30% to 40%"
+                    }
+                }
+            ],
+            "sortConfig": [
+                {
+                    "name": "Prize",
+                    "show": true
+                },
+                {
+                    "name": "Seats",
+                    "show": true
+                },
+                {
+                    "name": "Entry",
+                    "show": true
+                },
+                {
+                    "name": "Winners",
+                    "show": true
+                }
+            ]
+        }
+    },
+    "paymentWebhookTestingUsers": [
+        2506696
+    ],
+    "unityPreload": {
+        "10": {
+            "modValue": 2,
+            "remainderValue": [0]
+        },
+        "30": {
+            "modValue": 2,
+            "remainderValue": [0]
+        },
+        "13": {
+            "modValue": 2,
+            "remainderValue": [0]
+        },
+        "31": {
+            "modValue": 2,
+            "remainderValue": [
+                0,
+                1
+            ]
+        }
+    }
+}
